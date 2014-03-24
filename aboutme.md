@@ -1,1 +1,1 @@
-My name is Chris Guidone. I am currently studying Web Development at Valencia College.
+My name is Chris Guidone. I am currently studying Web Development at Valencia College. In the portfolio section of my github account you will find code I have developed and websites I have created. I will keep this section update with the latest porjects I am currently working on. If you have any questions please dont hesitate to contact me.
